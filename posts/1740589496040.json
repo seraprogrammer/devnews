@@ -5,5 +5,7 @@
   "videoUrl": "https://www.youtube.com/embed/G1rOthIU-uo",
   "timestamp": "2025-02-26T17:04:56.040Z",
   "likes": 0,
-  "comments": []
+  "comments": [],
+  "upvotes": null,
+  "userVote": "up"
 }
