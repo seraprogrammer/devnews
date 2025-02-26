@@ -6,6 +6,7 @@
   "timestamp": "2025-02-26T17:04:56.040Z",
   "likes": 0,
   "comments": [],
-  "upvotes": null,
-  "userVote": "up"
+  "upvotes": 0,
+  "userVote": "down",
+  "downvotes": 1
 }
